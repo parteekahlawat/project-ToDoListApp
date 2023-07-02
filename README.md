@@ -40,8 +40,12 @@ Here is some exampe of adding
 **You can add lists as much as you want**
 
 ## Languages
-**This app is created with HTML, CSS, EJS (Embedded JavaScript), Express, mongoDB, mongoose**
+**This app is created with HTML, CSS, JS, EJS (Embedded JavaScript), Express, mongoDB, mongoose**
 
-**`Front End -` HTML, CSS, EJS**
+**`Front End -` HTML, CSS, JS, EJS**
 
 **`Back End and Databases -` Express, moongoDB, mongoose**
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,mongodb,express,nodejs)](https://skills.thijs.gg)
+
+## Thank You
