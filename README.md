@@ -36,5 +36,12 @@ Here is some exampe of adding
 
 ![Screenshot 2023-07-03 032819](https://github.com/parteekahlawat/project-ToDoListApp/assets/72187356/bc67767a-1654-4527-bf8f-4a8635090168)
 
-### Use 
-**How to use** - Add the items by clicking `+` and remove the items by clicking the checkbox
+
+**You can add lists as much as you want**
+
+## Languages
+**This app is created with HTML, CSS, EJS (Embedded JavaScript), Express, mongoDB, mongoose**
+
+**`Front End -` HTML, CSS, EJS**
+
+**`Back End and Databases -` Express, moongoDB, mongoose**
