@@ -25,7 +25,7 @@ Here, you can add items according to you and can delete them by clicking the che
 
 For creating new To-Do list you can directly write the list name after the **`localhost:3000/[ListName]`** as shown in image. 
 
-Here List name is work and the link for this is **`localhost:3000/work`** 
+Here List name is **`work`** and the link for this is **`localhost:3000/work`** 
 
 ### New list Overview
 ![Screenshot 2023-07-03 032536](https://github.com/parteekahlawat/project-ToDoListApp/assets/72187356/a2d84606-d2e3-4232-b282-a7634898b893)
